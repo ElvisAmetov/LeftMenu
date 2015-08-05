@@ -24,6 +24,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-JVMenuPopover-JVMenuPopover.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-JVMenuPopover.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-LGSideMenuController.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -59,16 +69,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-SlideMenu3D-SlideMenu3D.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SlideMenu3D.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -77,72 +77,72 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>053DEA3659F97689D7C4E058</key>
+		<key>09371E889B41B5C1A3ACDF1D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>20B66A13DA51C5274B09CF3C</key>
+		<key>2333B34924AF7CA4AA6945C0</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>347CA4E28DB22C29A87F875B</key>
+		<key>3A03D2AD1BDD2D93F64F96AC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>378282B23A8328826F6C3F97</key>
+		<key>46E231DE3CE550A33E5BA73E</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>9A8B92C9B32FDE2E02EB0FF8</key>
+		<key>57E67309097E79630B7D2C5D</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>AE9215FEE9BE34CBCB974463</key>
+		<key>6B39E967081C576304DDD601</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B21E44491E830E8E15BCF286</key>
+		<key>7091295E6D38778DF05B49E4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>B9EC25C992B68829DC78189F</key>
+		<key>8609041100C6E1291715B614</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>BF5CBF567EE63C9600F36BD5</key>
+		<key>9FFC7537B533081F22D02DF4</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CEAFE865ADE2801849D86B91</key>
+		<key>B2CEA4343DF0AA21879F5C66</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>CF62CF2083B8E51278A119C3</key>
+		<key>C3F31033C7A3BF54BEBF0A65</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>D2E0DA1A05ABD7F1A8458D73</key>
+		<key>D0D565438061B6B3DC73D327</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>DCDB69C241FB22C5AC8894B7</key>
+		<key>ECDB84B09710BA972C587270</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E9337239A62FF98F5DE0DDA9</key>
+		<key>ED5BB2D1B146A1D1BB9D0B2B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

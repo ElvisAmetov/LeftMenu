@@ -2,10 +2,10 @@ PODS:
   - BSErrorMessageView (1.0)
   - CZPicker (0.3.5)
   - JTProgressHUD (1.0.2)
+  - JVMenuPopover (0.0.4)
   - LGSideMenuController (1.0.3)
   - LGSublimationView (1.0.0)
   - RZVibrantButton (0.1.3)
-  - SlideMenu3D (0.1.4)
   - SMLElevationView (0.1.3)
   - SWBufferedToast (0.1.5)
 
@@ -13,10 +13,10 @@ DEPENDENCIES:
   - BSErrorMessageView (from `https://github.com/BenjaminSarkisyan/BSErrorMessageView.git`)
   - CZPicker
   - JTProgressHUD
+  - JVMenuPopover
   - LGSideMenuController (~> 1.0.0)
   - LGSublimationView
   - RZVibrantButton
-  - SlideMenu3D
   - SMLElevationView
   - SWBufferedToast
 
@@ -33,10 +33,10 @@ SPEC CHECKSUMS:
   BSErrorMessageView: 0e2cf5439b0b68144c3e12ced79bd5324f924ce3
   CZPicker: ce4f352d65ef5ccb8d7378afe3ee4e5bdbead15a
   JTProgressHUD: 8d85c057c7784f25494ffc266ad4ddefe178bee1
+  JVMenuPopover: 2f99e26f7bf217f7e274016fcea2b9f5928f535f
   LGSideMenuController: 565ca94043437552cda5a88384e0a481169c3f32
   LGSublimationView: bc6bad5a336494b304c41ad05dce69366bd9ceda
   RZVibrantButton: f2b7ba0b4bd2cf09b18f65fac51a9cbd7a454bd9
-  SlideMenu3D: 4048bd4fd18de6c14baf9957e4b8d5bf7d50cf73
   SMLElevationView: f0bc28dad03ad5bbb7e208697ec0770c087fa484
   SWBufferedToast: 276c19272fc588f4c6de7218aedb39423407d7a9
 

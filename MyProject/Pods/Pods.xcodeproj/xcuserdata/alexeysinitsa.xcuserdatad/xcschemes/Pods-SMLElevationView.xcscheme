@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D2E0DA1A05ABD7F1A8458D73"
+               BlueprintIdentifier = "2333B34924AF7CA4AA6945C0"
                BuildableName = "SMLElevationView.framework"
                BlueprintName = "Pods-SMLElevationView"
                ReferencedContainer = "container:Pods.xcodeproj">

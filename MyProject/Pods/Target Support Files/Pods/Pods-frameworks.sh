@@ -51,21 +51,21 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework 'BSErrorMessageView.framework'
   install_framework 'CZPicker.framework'
   install_framework 'JTProgressHUD.framework'
+  install_framework 'JVMenuPopover.framework'
   install_framework 'LGSideMenuController.framework'
   install_framework 'LGSublimationView.framework'
   install_framework 'RZVibrantButton.framework'
   install_framework 'SMLElevationView.framework'
   install_framework 'SWBufferedToast.framework'
-  install_framework 'SlideMenu3D.framework'
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework 'BSErrorMessageView.framework'
   install_framework 'CZPicker.framework'
   install_framework 'JTProgressHUD.framework'
+  install_framework 'JVMenuPopover.framework'
   install_framework 'LGSideMenuController.framework'
   install_framework 'LGSublimationView.framework'
   install_framework 'RZVibrantButton.framework'
   install_framework 'SMLElevationView.framework'
   install_framework 'SWBufferedToast.framework'
-  install_framework 'SlideMenu3D.framework'
 fi

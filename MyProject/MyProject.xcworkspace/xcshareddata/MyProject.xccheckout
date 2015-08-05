@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D5B69321-515B-427E-A086-5948BD4F2125</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyProject</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>592737F416D43FEA01262F8EE3BBB28DF4CA5E17</key>
+		<string>https://github.com/ametov100/LeftMenu.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyProject/MyProject.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>592737F416D43FEA01262F8EE3BBB28DF4CA5E17</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ametov100/LeftMenu.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>592737F416D43FEA01262F8EE3BBB28DF4CA5E17</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>592737F416D43FEA01262F8EE3BBB28DF4CA5E17</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>

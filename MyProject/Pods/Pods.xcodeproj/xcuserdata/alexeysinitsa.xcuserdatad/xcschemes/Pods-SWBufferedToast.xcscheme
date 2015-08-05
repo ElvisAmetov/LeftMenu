@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B21E44491E830E8E15BCF286"
+               BlueprintIdentifier = "7091295E6D38778DF05B49E4"
                BuildableName = "SWBufferedToast.framework"
                BlueprintName = "Pods-SWBufferedToast"
                ReferencedContainer = "container:Pods.xcodeproj">

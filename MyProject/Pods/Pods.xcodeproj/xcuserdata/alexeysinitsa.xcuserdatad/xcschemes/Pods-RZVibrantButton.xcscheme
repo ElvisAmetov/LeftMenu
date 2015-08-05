@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B9EC25C992B68829DC78189F"
+               BlueprintIdentifier = "C3F31033C7A3BF54BEBF0A65"
                BuildableName = "RZVibrantButton.framework"
                BlueprintName = "Pods-RZVibrantButton"
                ReferencedContainer = "container:Pods.xcodeproj">

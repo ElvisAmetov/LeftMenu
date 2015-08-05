@@ -24,6 +24,12 @@
 #define COCOAPODS_VERSION_MINOR_JTProgressHUD 0
 #define COCOAPODS_VERSION_PATCH_JTProgressHUD 2
 
+// JVMenuPopover
+#define COCOAPODS_POD_AVAILABLE_JVMenuPopover
+#define COCOAPODS_VERSION_MAJOR_JVMenuPopover 0
+#define COCOAPODS_VERSION_MINOR_JVMenuPopover 0
+#define COCOAPODS_VERSION_PATCH_JVMenuPopover 4
+
 // LGSideMenuController
 #define COCOAPODS_POD_AVAILABLE_LGSideMenuController
 #define COCOAPODS_VERSION_MAJOR_LGSideMenuController 1
@@ -53,10 +59,4 @@
 #define COCOAPODS_VERSION_MAJOR_SWBufferedToast 0
 #define COCOAPODS_VERSION_MINOR_SWBufferedToast 1
 #define COCOAPODS_VERSION_PATCH_SWBufferedToast 5
-
-// SlideMenu3D
-#define COCOAPODS_POD_AVAILABLE_SlideMenu3D
-#define COCOAPODS_VERSION_MAJOR_SlideMenu3D 0
-#define COCOAPODS_VERSION_MINOR_SlideMenu3D 1
-#define COCOAPODS_VERSION_PATCH_SlideMenu3D 4
 

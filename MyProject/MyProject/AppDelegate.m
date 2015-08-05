@@ -7,8 +7,14 @@
 //
 
 #import "AppDelegate.h"
+#import "JVMenuPopover.h"
+#import "ViewController.h"
+#import "MainViewController.h"
 
-@interface AppDelegate ()
+@interface AppDelegate () <JVMenuPopoverDelegate, JVMenuPopoverViewControllerDelegate>
+
+@property (strong, nonatomic) JVMenuNavigationController *navigationController;
+@property (strong, nonatomic) JVMenuPopoverViewController *menuController;
 
 @end
 
@@ -17,6 +23,22 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+    
+//    ViewController *vc = [[ViewController alloc] init];
+//    
+//    // setting up navigation controller with root controller & transparent nav bar
+//    self.navigationController = [[JVMenuNavigationController alloc] initWithRootViewController:vc];
+//    self.navigationController.withTransparentNavBar = YES;
+//    
+//    // setting up app window
+//    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
+//    [self.window setRootViewController:self.navigationController];
+//    self.window.backgroundColor = [UIColor whiteColor];
+//    self.window.contentMode = UIViewContentModeScaleAspectFit;
+//    
+//    [self.window addSubview:self.navigationController.view];
+//    [self.window makeKeyAndVisible];
+    self.window.backgroundColor = [UIColor colorWithPatternImage:[UIImage imageNamed:@"image"]];
     return YES;
 }
 
@@ -42,4 +64,8 @@
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
 }
 
+
+- (void)setNewViewController:(UINavigationController *)navController fromIndexPath:(NSIndexPath *)indexPath{
+    
+}
 @end

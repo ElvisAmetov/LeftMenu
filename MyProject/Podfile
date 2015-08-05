@@ -10,5 +10,6 @@ pod 'LGSublimationView' # demo screen view controller site : https://github.com/
 pod 'RZVibrantButton' # custom button on swift site : https://github.com/remzr7/RZVibrantButton
 pod 'SMLElevationView' # graphics  site : https://github.com/mpsnp/SMLElevationView
 #pod NOT # graphics 2 site : https://github.com/maxday/MDRotatingPieChart
-pod 'SlideMenu3D' # left menu site : https://github.com/hunk/SlideMenu3D
+#pod 'SlideMenu3D' # left menu site : https://github.com/hunk/SlideMenu3D
 pod 'SWBufferedToast' # login view site : https://github.com/sfwalsh/SWBufferedToast
+pod 'JVMenuPopover'

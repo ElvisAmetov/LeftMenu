@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LeftMenuController.h"
+#import "JVMenuPopover.h"
+
 
 @interface ViewController : UIViewController
 
+- (IBAction)menuAction:(id)sender;
 
 @end
 
