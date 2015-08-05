@@ -1,0 +1,6 @@
+framework module BSErrorMessageView {
+  umbrella header "Pods-BSErrorMessageView-umbrella.h"
+
+  export *
+  module * { export * }
+}

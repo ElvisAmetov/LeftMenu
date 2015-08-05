@@ -1,0 +1,6 @@
+framework module LGSublimationView {
+  umbrella header "Pods-LGSublimationView-umbrella.h"
+
+  export *
+  module * { export * }
+}

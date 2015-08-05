@@ -1,11 +1,14 @@
 # Uncomment this line to define a global platform for your project
 # platform :ios, '6.0'
-
-target 'MyProject' do
-
-end
-
-target 'MyProjectTests' do
-
-end
-
+use_frameworks!
+pod 'BSErrorMessageView', :git => 'https://github.com/BenjaminSarkisyan/BSErrorMessageView.git'  # for registration  site :  https://github.com/BenjaminSarkisyan/BSErrorMessageView
+pod 'LGSideMenuController', '~> 1.0.0' # menu site :  https://github.com/Friend-LGA/LGSideMenuController
+pod 'CZPicker' # pickerview site: https://github.com/chenzeyu/CZPicker
+pod 'JTProgressHUD' # progress hud site : https://github.com/kubatru/JTProgressHUD
+pod 'LGSublimationView' # demo screen view controller site : https://github.com/lukegeiger/LGSublimationView
+#pod NOT # tab bar site : https://github.com/VuMai/VMTabbarCustomize
+pod 'RZVibrantButton' # custom button on swift site : https://github.com/remzr7/RZVibrantButton
+pod 'SMLElevationView' # graphics  site : https://github.com/mpsnp/SMLElevationView
+#pod NOT # graphics 2 site : https://github.com/maxday/MDRotatingPieChart
+pod 'SlideMenu3D' # left menu site : https://github.com/hunk/SlideMenu3D
+pod 'SWBufferedToast' # login view site : https://github.com/sfwalsh/SWBufferedToast

@@ -1,0 +1,6 @@
+framework module SlideMenu3D {
+  umbrella header "Pods-SlideMenu3D-umbrella.h"
+
+  export *
+  module * { export * }
+}
